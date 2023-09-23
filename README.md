@@ -1,6 +1,6 @@
 <h2> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am Nathan Challender, a lifelong learner and full stack web developer.
+I am Nathan, a lifelong learner and full stack web developer.
 
 - :art:&nbsp;Right now I'm working on a collaborative drawing web app
 - :bulb:&nbsp;Currently Learning NextJS and TypeScript
