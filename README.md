@@ -3,7 +3,7 @@
 I am Nathan, a lifelong learner and full stack web developer.
 
 - :art:&nbsp;Right now I'm working on a collaborative drawing web app
-- :bulb:&nbsp;Currently Learning SMS and Email Development
+- :bulb:&nbsp;Currently Learning Next.JS and Pixel Art
 -  	:speech_balloon:&nbsp;Ask me about JavaScript, React or Web Development!
 - :mountain:&nbsp;Fun fact: I am working towards hiking the 48 peaks over 4000ft in New Hampshire!
 <!--- &nbsp;Read more about my projects at [https://nathanchallender.com/#portfolio]-->
