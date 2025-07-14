@@ -2,11 +2,11 @@
 
 I am Nathan, a lifelong learner and full stack web developer.
 
-- :art:&nbsp;Right now I'm working on a collaborative drawing web app
-- :bulb:&nbsp;Currently Learning Next.JS and Pixel Art
--  	:speech_balloon:&nbsp;Ask me about JavaScript, React or Web Development!
-- :mountain:&nbsp;Fun fact: I am working towards hiking the 48 peaks over 4000ft in New Hampshire!
-<!--- &nbsp;Read more about my projects at [https://nathanchallender.com/#portfolio]-->
+- :art:&nbsp; Right now I'm working on a collaborative drawing app while cleaning up and updating old projects from CRA to Vite.
+- :bulb:&nbsp; Currently Learning Web Sockets, Drawing with CSS and Pixel Sprite Design
+- :speech_balloon:&nbsp; Ask me about JavaScript, React or Web Development!
+- :mountain:&nbsp; Fun fact: The Appalachian mountains are older than the rings of Saturn. 🪐
+- 💻&nbsp;Read more about my projects on [my portfolio](https://nathandallas.github.io/portfolio/)
 
 ## ⚡ Technologies
 
